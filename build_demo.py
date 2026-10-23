@@ -12,7 +12,7 @@ html=html.replace('href="/"','href="./"')
 html=html.replace('Synthetic data demo','Public browser demo')
 html=html.replace('Last 100 snapshots · stored on this computer','Last 100 snapshots · saved in this browser only')
 html=html.replace('Every result keeps its source records,<br>rule version, and audit history.','Records and history stay in this browser.<br>No uploads to a backend service.')
-html=html.replace('All sample records are fictional. No measured savings are claimed.','Fictional samples · browser-only demo · <a href="https://github.com/sfskhalsa101/flowcheck">Python/SQL source ↗</a>')
+html=html.replace('All sample records are fictional. No measured savings are claimed.','Fictional samples · browser-only demo · <a href="https://github.com/snowmany19/flowcheck">Python/SQL source ↗</a>')
 html=html.replace('<section class="workbench"','<p class="hint">Try the preloaded sample, then load the corrected sample and compare again. No sign-in or installation. This public demo runs JavaScript locally; the repository contains the Python/SQLite implementation. Use one tab at a time.</p><section class="workbench"')
 (target/'index.html').write_text(html)
 for file in ('styles.css','app.js','browser-demo.js'):

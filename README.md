@@ -10,7 +10,7 @@ This portfolio project draws on warehouse and transportation systems experience.
 
 ## Public demo
 
-[Try FlowCheck in your browser](https://sfskhalsa101.github.io/flowcheck/) — no account or installation needed. The public version performs comparisons in JavaScript and stores source records and history in your browser’s local storage. Files are not uploaded to a backend. Use one tab at a time; this demo does not synchronize across devices or users. Browser storage limits apply.
+[Try FlowCheck in your browser](https://snowmany19.github.io/flowcheck/) — no account or installation needed. The public version performs comparisons in JavaScript and stores source records and history in your browser’s local storage. Files are not uploaded to a backend. Use one tab at a time; this demo does not synchronize across devices or users. Browser storage limits apply.
 
 The Python/SQLite implementation below remains the backend reference. Shared fixtures and randomized cases test comparison parity between both versions. Rebuild the public version with `python3 build_demo.py`; GitHub Pages serves `main` → `/docs`.
 
@@ -49,7 +49,7 @@ The corrected sample illustrates upstream repair; FlowCheck does not edit source
 
 ## Portfolio fit
 
-The existing [operations portfolio](https://sfskhalsa101.github.io/hari-simran-khalsa-portfolio/) has a sort staffing and door-assignment simulator, dispatch exception dashboard, and AIncident product case study. FlowCheck adds **cross-system data integrity and reproducible reconciliation**. It does not model staffing, prioritize dispatch service risks, or generate incident summaries. See [the scope comparison](docs/portfolio-fit.md).
+The existing [operations portfolio](https://snowmany19.github.io/hari-simran-khalsa-portfolio/) has a sort staffing and door-assignment simulator, dispatch exception dashboard, and AIncident product case study. FlowCheck adds **cross-system data integrity and reproducible reconciliation**. It does not model staffing, prioritize dispatch service risks, or generate incident summaries. See [the scope comparison](docs/portfolio-fit.md).
 
 ## Data contract
 

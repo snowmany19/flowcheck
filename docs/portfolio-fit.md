@@ -1,8 +1,8 @@
 # Portfolio scope comparison
 
 Reviewed on September 30, 2026 against the live portfolio and its repository README:
-https://sfskhalsa101.github.io/hari-simran-khalsa-portfolio/
-https://github.com/sfskhalsa101/hari-simran-khalsa-portfolio
+https://snowmany19.github.io/hari-simran-khalsa-portfolio/
+https://github.com/snowmany19/hari-simran-khalsa-portfolio
 
 | Existing project | Existing question | FlowCheck's different question |
 | --- | --- | --- |
